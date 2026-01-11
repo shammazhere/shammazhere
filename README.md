@@ -42,7 +42,7 @@ const shamaz = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -81,23 +81,45 @@ const shamaz = {
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>🎁 DonationApp</h3>
-      <p>A full-featured donation platform connecting donors with recipients</p>
+      <h3>🎫 WinterHackathon-Strivers</h3>
+      <p>Hackathon project template with comprehensive setup for collaborative development</p>
       <p>
-        <strong>Tech Stack:</strong> React, Node.js, MongoDB, Stripe API
+        <strong>Tech Stack:</strong> JavaScript, Project Template
       </p>
       <p>
-        <a href="https://github.com/shammazhere/DonationApp">View Repository →</a>
+        <a href="https://github.com/shammazhere/WinterHackathon-Strivers">View Repository →</a>
       </p>
     </td>
     <td align="center" width="50%">
-      <h3>🎁 DonationApp1</h3>
-      <p>Enhanced version with improved UI/UX and advanced features</p>
+      <h3>🌐 Globe Trotter</h3>
+      <p>Travel and location-based application with interactive features</p>
       <p>
-        <strong>Tech Stack:</strong> React, Express, PostgreSQL, Redux
+        <strong>Tech Stack:</strong> TypeScript, Web Application
       </p>
       <p>
-        <a href="https://github.com/shammazhere/DonationApp1">View Repository →</a>
+        <a href="https://github.com/shammazhere/globe_trotter">View Repository →</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🤖 AIForecasting</h3>
+      <p>Intelligent application for demand forecasting with regional and seasonal analysis</p>
+      <p>
+        <strong>Tech Stack:</strong> TypeScript, Data Analysis, Forecasting
+      </p>
+      <p>
+        <a href="https://github.com/shammazhere/AIForecasting">View Repository →</a>
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🎁 DonationApp</h3>
+      <p>Full-featured donation platform connecting donors with recipients</p>
+      <p>
+        <strong>Tech Stack:</strong> Python, Backend Application
+      </p>
+      <p>
+        <a href="https://github.com/shammazhere/DonationApp">View Repository →</a>
       </p>
     </td>
   </tr>
